@@ -24,4 +24,9 @@
 
 <figure><embed src="https://wakatime.com/share/@76696a60-06d9-42d7-b84c-180fa6532c7a/113d2e9a-1203-45a0-8e85-6d4cd03a1cb7.svg"></embed></figure> -->
 
-
+<details>
+  <summary>Language Statistics ...</summary><br/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=longlt" height="400"/>
+  </p>
+</details>
