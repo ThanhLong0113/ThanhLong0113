@@ -8,13 +8,13 @@
 <details>
   <summary>Github Statistics ...</summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=longlt&showicon=true&theme=onedark" height="400"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=longlt&showicon=true&theme=onedark"/>
   </p>
 </details>
 <details>
   <summary>Language Statistics ...</summary><br/>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longlt&layout=compact" height="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longlt&layout=compact&hide_progress=false"/>
   </p>
 </details>
 
