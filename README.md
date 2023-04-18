@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
+<!-- 
 <details>
   <summary>Github Statistics ...</summary>
   <p align="center">
@@ -16,7 +16,7 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longlt&layout=compact&hide_progress=false"/>
   </p>
-</details>
+</details> -->
 
 <!-- <figure><embed src="https://wakatime.com/share/@76696a60-06d9-42d7-b84c-180fa6532c7a/5806f04b-b5e9-48cf-aab1-ddb7c6aae8d8.svg"></embed></figure>
 
@@ -24,9 +24,13 @@
 
 <figure><embed src="https://wakatime.com/share/@76696a60-06d9-42d7-b84c-180fa6532c7a/113d2e9a-1203-45a0-8e85-6d4cd03a1cb7.svg"></embed></figure> -->
 
-<details>
+<!-- <details>
   <summary>Language Statistics ...</summary><br/>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=longlt" height="400"/>
   </p>
-</details>
+</details> -->
+
+![](https://github-readme-stats.vercel.app/api?username=ThanhLong0113&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ThanhLong0113&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhLong0113&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
